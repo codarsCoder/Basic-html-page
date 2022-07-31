@@ -1,2 +1,2 @@
 # Basic-html-page
-<a href="https://github.com/codarsCoder/Basic-html-page">basic Html page</a>
+https://codarscoder.github.io/Basic-html-page/ 
