@@ -37,6 +37,9 @@ li{
     border-left:2px solid;
    margin:  7px 0;
 }
+section{
+    margin: 20px 0;
+}
 
 footer{
     margin: 20px;
